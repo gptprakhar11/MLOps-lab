@@ -1,0 +1,12 @@
+{
+  "python": "3.10.19",
+  "seed": 42,
+  "rows": 600,
+  "data_sha256": "9e9f7a46c817d5bb81c3e458f66617d17a116a3218c6bb5f555c05dd831f59a1",
+  "libraries": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.8"
+  }
+}
